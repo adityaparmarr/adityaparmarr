@@ -2,13 +2,13 @@
 
 I'm an undergraduate at UC San Diego, studying Bioinformatics. 
 
-### Working On
-I am actively involved in research at:
-- [Ferguson Lab](http://coleferguson.com/)
-- [Mesirov Lab](https://mesirovlab.org)
+### I am actively involved in research at:
+- [Ferguson Lab @ UCSD Pathology](http://coleferguson.com/)
+- [Compbio Wizard Lab @ MD Anderson](https://compbiowizard.github.io/)
+- [Mesirov Lab @ UCSD Medicine](https://mesirovlab.org)
 
 ### Contact
-[Mail](aditya0110parmar@gmail.com) [LinkedIn](https://www.linkedin.com/in/adityatparmar/)
+[Mail](adityatparmar@gmail.com) [LinkedIn](https://www.linkedin.com/in/adityatparmar/)
 
 Thanks for stopping by!
 
